@@ -1,4 +1,4 @@
 # console.log('Hello World 👋')
 
-<li>I´m currently studying at Le Wagon.
-<li>I seek to study, after App Academy, the Math and Data Science Engineering degree.
+<li>I took le wagon full stack bootcamp.
+<li>I currently study at Instituto Tecnológico Autónomo de México (ITAM) the Math and Data Science Engineering degree.
