@@ -1,6 +1,6 @@
 # ¡Hola, Mundo! Soy Emilio Said Maccise 👋
 
-Bienvenido/a a mi rincón digital, donde la pasión por el código se combina con el deseo de innovar en el mundo de los negocios. Soy el fundador de [Meefi](enlace-a-meefi), una startup que mezcla la magia de la inteligencia artificial y WhatsApp para simplificar los procesos de cobranza y facturación. Además de emprender en el mundo tecnológico, también me encanta explorar los cielos como piloto privado. ✈️
+Bienvenido/a a mi rincón digital, donde la pasión por el código se combina con el deseo de innovar en el mundo de los negocios. Soy el fundador de [Meefi](https://meefi.io), una startup que mezcla la magia de la inteligencia artificial y WhatsApp para simplificar los procesos de cobranza y facturación. Además de emprender en el mundo tecnológico, también me encanta explorar los cielos como piloto privado. ✈️
 
 ## Acerca de Mí 🚀
 
