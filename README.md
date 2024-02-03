@@ -23,7 +23,7 @@ En mi caja de herramientas mágica encontrarás:
 - **HTML / CSS / SCSS** 🌐🎨
 - **JavaScript (JS)** 🚀
 
-¡Estoy siempre listo/a para aprender y aplicar nuevas magias tecnológicas!
+¡Estoy siempre listo para aprender y aplicar nuevas magias tecnológicas!
 
 ## Contacto 📬
 
