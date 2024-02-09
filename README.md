@@ -22,6 +22,8 @@ En mi caja de herramientas mágica encontrarás:
 - **LaTeX** 📄
 - **HTML / CSS / SCSS** 🌐🎨
 - **JavaScript (JS)** 🚀
+- **Tailwind CSS** 🌈
+- **Bootstrap** 🅱️
 
 ¡Estoy siempre listo para aprender y aplicar nuevas magias tecnológicas!
 
