@@ -1,34 +1,32 @@
-# ¡Hola, Mundo! Soy Emilio Said Maccise 👋
+# ¡Hola! Soy Emilio Said Maccise 👋
 
-Bienvenido/a a mi rincón digital, donde la pasión por el código se combina con el deseo de innovar en el mundo de los negocios. Soy el fundador de [Meefi](https://meefi.io), una startup que mezcla la magia de la inteligencia artificial y WhatsApp para simplificar los procesos de cobranza y facturación. Además de emprender en el mundo tecnológico, también me encanta explorar los cielos como piloto privado. ✈️
+Bienvenido a este espacio donde la tecnología y la gestión financiera se unen. Soy fundador de [Meefi](https://meefi.io), **la cuenta empresarial que simplifica tus finanzas**. En Meefi, puedes abrir tu cuenta en tan solo 10 minutos para empezar a pagar o cobrar facturas, ya sean nacionales o internacionales. Además, disfruto explorar los cielos como piloto privado. ✈️
 
-## Acerca de Mí 🚀
+---
 
-- 👨‍💻 Founder de [Meefi](https://meefi.io): Transformando la gestión financiera con tecnología.
-- 🖥️ Técnico en Ingeniería en Software
-- 📚 Estudiante de Matemáticas Aplicadas y Ciencias de Datos
-- 🧮 Usuario hábil de **Mathematica**
-- ✨ Amante de la tecnología y las alturas
+## Sobre Mí 🚀
 
-## Habilidades Mágicas 💻
+- **Founder en [Meefi](https://meefi.io):** Transformando la gestión financiera para PYMEs con tecnología innovadora.
+- **Técnico en Ingeniería en Software** y estudiante de **Matemáticas Aplicadas y Ciencias de Datos**.
+- Apasionado por la tecnología, las matemáticas aplicadas y la aviación.
 
-En mi caja de herramientas mágica encontrarás:
+---
 
-- **Python** 🐍
-- **Ruby** 💎
-- **Java** ☕
-- **C++** 🧑‍💻
-- **Mathematica** 🧮
-- **LaTeX** 📄
-- **HTML / CSS / SCSS** 🌐🎨
-- **JavaScript (JS)** 🚀
-- **Tailwind CSS** 🌈
-- **Bootstrap** 🅱️
+## Habilidades Técnicas 🛠️
 
-¡Estoy siempre listo para aprender y aplicar nuevas magias tecnológicas!
+Domino herramientas y lenguajes clave en el desarrollo de soluciones tecnológicas, como:
 
-## Contacto 📬
+- **Lenguajes de programación:** Python, Ruby, Java, C++, JavaScript.
+- **Desarrollo web:** HTML, CSS/SCSS, Tailwind CSS, Bootstrap.
+- **Herramientas avanzadas:** Mathematica, LaTeX.
+- **Frameworks y librerías:** React, Rails.
 
-Si tienes preguntas sobre código, ideas para compartir o simplemente quieres hablar sobre vuelo, ¡me encantaría escucharte! Puedes enviarme un mensaje de lechuza a [correo electrónico](mailto:esaid@meefi.io) o encontrarme en [LinkedIn](https://www.linkedin.com/in/emilio-said-maccise-53bb99216).
+Siempre estoy abierto a aprender nuevas tecnologías para optimizar procesos y crear soluciones eficientes.
 
-Gracias por aterrizar en mi repositorio. ¡Espero que disfrutes explorando y encuentres inspiración! 🌟 ¡Feliz codificación y vuelo seguro! 🚀✨
+---
+
+## Contacto 📩
+
+Si quieres hablar sobre desarrollo, tecnología financiera o compartir ideas, estaré encantado de conectar. Escríbeme a [esaid@meefi.io](mailto:esaid@meefi.io) o visítame en [LinkedIn](https://www.linkedin.com/in/emilio-said-maccise-53bb99216).
+
+¡Gracias por tu interés! Espero que encuentres algo útil e inspirador aquí. 🚀
