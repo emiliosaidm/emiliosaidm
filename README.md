@@ -1,12 +1,9 @@
 # ¡Hola! Soy Emilio Said Maccise 👋
 
-Bienvenido a este espacio donde la tecnología y la gestión financiera se unen. Soy fundador de [Meefi](https://meefi.io), **la cuenta empresarial que simplifica tus finanzas**. En Meefi, puedes abrir tu cuenta en tan solo 10 minutos para empezar a pagar o cobrar facturas, ya sean nacionales o internacionales. Además, disfruto explorar los cielos como piloto privado. ✈️
-
 ---
 
 ## Sobre Mí 🚀
 
-- **Founder en [Meefi](https://meefi.io):** Transformando la gestión financiera para PYMEs con tecnología innovadora.
 - **Técnico en Ingeniería en Software** y estudiante de **Matemáticas Aplicadas y Ciencias de Datos**.
 - Apasionado por la tecnología, las matemáticas aplicadas y la aviación.
 
